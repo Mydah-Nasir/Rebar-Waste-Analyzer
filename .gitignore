@@ -1,0 +1,17 @@
+# README (as requested)
+README.md
+
+# Virtual environments
+rvenv/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local config / secrets
+.env
+.streamlit/secrets.toml
+make_test_pdf.py
